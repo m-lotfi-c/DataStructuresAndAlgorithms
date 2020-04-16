@@ -1,0 +1,10 @@
+The data from Windows.txt is: 
+I love C Programming!
+I believe C is an awesome language.
+I will easily pass the midterm.
+
+
+The data from Linux.txt is: 
+I love C Programming!
+I believe C is an awesome language.
+I will easily pass the midterm.
